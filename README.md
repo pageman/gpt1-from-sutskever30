@@ -149,6 +149,21 @@ $$\text{GELU}(x) = 0.5x\!\left(1 + \tanh\!\left(\sqrt{\tfrac{2}{\pi}}\,(x + 0.04
 
 ---
 
+## Citation
+
+```bibtex
+@misc{gpt1-from-sutskever30-2026,
+  author    = {Paul "The Pageman" Pajo, pageman@gmail.com},
+  title     = {gpt1-from-sutskever30: GPT-1 assembled from scratch using the Sutskever 30-paper reading list},
+  year      = {2026},
+  url       = {https://github.com/pageman/gpt1-from-sutskever30},
+  note      = {NumPy-only GPT-1 derived from Papers 02, 13, and 27 of pageman/sutskever-30-implementations.
+               Example derivation session: https://chat.z.ai/s/6a9aa7a7-2e5d-4cca-bfb3-186da8699818}
+}
+```
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE)
